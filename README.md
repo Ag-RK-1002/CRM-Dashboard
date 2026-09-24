@@ -2,11 +2,9 @@
 
 GreenCRM is a next-generation, AI-driven CRM platform designed to automate the heavy lifting of sales and lead management. By placing Artificial Intelligence at the core of the workflow, GreenCRM transforms simple company names into deep, actionable sales intelligence.
 
-## 🚀 Live Demo & Video
+## 🚀 Live Demo
 
 **🌐 Try it Live:** [https://greencrm.vercel.app](https://greencrm.vercel.app)
-
-**🎥 Watch Demo:** [https://youtu.be/Tt0PqFSncuA](https://youtu.be/Tt0PqFSncuA)
 
 ## 📸 Screenshots
 
@@ -133,15 +131,3 @@ cd backend && pnpm dev
 cd frontend && pnpm dev
 ```
 
----
-
-## 📂 Repository & Contributing
-
-**🔗 GitHub Repository:** [https://github.com/MadsDoodle/GreenCRM](https://github.com/MadsDoodle/GreenCRM)
-
-Feel free to fork the repository, submit issues, and contribute to the project!
-
----
-
-## 👨‍💻 Author
-**Created by Madhav S Baidya**
